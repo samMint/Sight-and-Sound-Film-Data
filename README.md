@@ -4,10 +4,9 @@ Dataset and accompanying documentation pertaining to Sight and Sound's 2022 "Gre
 Please see *dataset_biography* and *data_dictionary* for valuable contextual information related to this project and the data. 
 
 
-
 **References**
 
-[Serve-and-volley/sight-and-sound-poll-data](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
+[Original Dataset](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
 
 [IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
 
