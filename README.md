@@ -6,15 +6,17 @@ Please see *dataset_biography* and *data_dictionary* for valuable contextual inf
 
 **References**
 
-[Primary Data Source](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
+[GitHub Data Source](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
 
 [IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
+
+*IMDb data collected November 2023
 
 [Sight and Sound List](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 
 
 
-*IMDb data collected November 2023
+
 
 
 
