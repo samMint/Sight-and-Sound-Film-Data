@@ -7,16 +7,15 @@ Please see *dataset_biography* and *data_dictionary* for valuable contextual inf
 
 **References**
 
-Data: Lin, K. (n.d.). Serve-and-volley/sight-and-sound-poll-data: Using python to scrape the data from the sight &amp; sound polls of the greatest films of All time. GitHub. https://github.com/serve-and-volley/sight-and-sound-poll-data 
+[Serve-and-volley/sight-and-sound-poll-data](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
 
-IMDb Documentation: https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#
+[IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
+
+[Sight and Sound List](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+
+
 
 *IMDb data collected November 2023
-
-Project: https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time
-
-
-
 
 
 
