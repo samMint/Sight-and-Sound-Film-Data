@@ -1,0 +1,17 @@
+name,type,definition,source
+title,character,Title,GitHub
+year,numeric,Release year,GitHub
+duration,numeric,Length in minutes,Sight and Sound
+country_of_origin,character,Production provenance,Sight and Sound
+director_1,character,Director name,GitHub
+director_1_gen,character,Director gender,Wiki
+director_1_born_in,character,Director birthplace,Wiki
+writer_and_director,logical,Director received writing credit (Yes=TRUE),Sight and Sound
+critic_rank,integer,2022 Sight and Sound list rank,Github
+critic_votes,numeric,2022 Sight and Sound critic vote count,Github
+critic_per,numeric,2022 Sight and Sound percentage of critics who voted for film,Github
+genre_1,character,IMDb genre tag,IMDb
+user_reviews,numeric,Number of IMDb user written reviews,IMDb
+ranking,numeric,Film’s 0.0-10.0 IMDb user ranking,IMDb
+sas_caption,character,Published caption describing film,Sight and Sound
+imdb_caption,character,Published caption describing film,IMDb 
