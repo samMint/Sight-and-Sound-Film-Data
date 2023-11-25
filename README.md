@@ -8,6 +8,8 @@ Please see *dataset_biography* and *data_dictionary* for valuable contextual inf
 
 [GitHub Data Source](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
 
+*Lin, K. Serve-and-volley/sight-and-sound-poll-data: Using python to scrape the data from the sight &amp; sound polls of the greatest films of All time. GitHub. 
+
 [IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
 
 *IMDb data collected November 2023
