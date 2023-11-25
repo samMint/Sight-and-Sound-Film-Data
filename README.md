@@ -6,7 +6,7 @@ Please see *dataset_biography* and *data_dictionary* for valuable contextual inf
 
 **References**
 
-[Original Dataset](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
+[Primary Data Source](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
 
 [IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
 
