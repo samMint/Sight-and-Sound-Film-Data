@@ -3,7 +3,7 @@ Since 1952, Sight and Sound (SaS)—a publication nested within the British Film
 Lists are weird cultural objects, but the BFI’s “Greatest Films of All Time” does form a loose and informal ‘canon’ that’s treated with, I believe, both reverence and suspicion. Transforming the list into a dataset offers researchers—primarily in digital humanities, film studies, and cultural studies—a valuable reference point for what film workers, in the years 2012-2022, thought to be valuable. 
  
 Preproduction 📝
-My dataset’s scaffolding has already been established by a GitHub user. I’ve extracted data from this user’s work that will be most valuable to my project. I’m excluding some variables from my new dataset that were originally collected (e.g. Director Ratings, Voter Profiles) that are fantastic and could be valuable to different types of analysis. To find a link to this user’s work, please see this project’s README.
+My dataset’s scaffolding has already been established by a GitHub user (see README). I’ve extracted data from this user’s work that will be most valuable to my project. I’m excluding some variables from my new dataset that were originally collected (e.g. Director Ratings, Voter Profiles) that are fantastic and could be valuable to different types of analysis. To find a link to this user’s work, please see this project’s README.
 Note: In the preexisting dataset, there are far more observations than in my modified list, as even films with a single vote in SaS’s database have been captured by the Python program the user wrote. My dataset only focuses on the list of films that SaS has published and presented to users on their website. 
  
 Production 🎬
