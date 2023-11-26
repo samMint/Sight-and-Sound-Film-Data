@@ -19,6 +19,23 @@ I’ve opted to track ‘place of birth,’ which denotes where the director was
 I’ve enriched this dataset with variables that may have interesting long-term value: genre, user_review, and rating, which are all extracted from IMDb user-generated content. They reflect, in rough-and-ready shorthand, how a film is seen (or not seen) outside of the critical milieu that SaS’s poll purports to represent. A future researcher may want to revisit these data in 2025 or 2032 to see if SaS’s list has affected any shift in public perceptions or engagement. I hope this also serves as encouragement for other types of data collection that could further enhance this list and its potential in quantitative analysis. 
 
 
+**Sources**
+
+[GitHub Data Source](https://github.com/serve-and-volley/sight-and-sound-poll-data) 
+
+Lin, K. Serve-and-volley/sight-and-sound-poll-data: Using python to scrape the data from the sight &amp; sound polls of the greatest films of All time. GitHub. 
+
+**References**
+
+[IMDb Documentation](https://help.imdb.com/article/contribution/titles/genres/GZDRMS6R742JRGAG#)
+
+*IMDb data collected November 2023
+
+[Sight and Sound List](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+
+
+
+
 
 
 
